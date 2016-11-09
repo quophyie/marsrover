@@ -3,9 +3,7 @@ package com.redbadger.tests.marsrover.gridbuilder;
 
 import com.redbadger.tests.marsrover.exception.GridException;
 
-/**
- * Created by dman on 07/11/2016.
- */
+
 public class GridBuilderImpl implements GridBuilder {
 
   @Override

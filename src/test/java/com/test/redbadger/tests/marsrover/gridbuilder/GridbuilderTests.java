@@ -14,9 +14,6 @@ import static junit.framework.TestCase.assertFalse;
 import static junit.framework.TestCase.assertTrue;
 import static org.junit.Assert.assertEquals;
 
-/**
- * Created by dman on 07/11/2016.
- */
 public class GridbuilderTests {
   private GridBuilder gridBuilder;
   private int xCoord, yCoord;

@@ -6,9 +6,6 @@ import com.redbadger.tests.marsrover.gridbuilder.Point;
 
 import java.util.List;
 
-/**
- * Created by dman on 08/11/2016.
- */
 public interface CommandModule {
   /**
    * Should return the top right uppermost coordinates of the grid

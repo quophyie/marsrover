@@ -9,10 +9,6 @@ import com.redbadger.tests.marsrover.pathfinder.PathFinder;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * Created by dman on 08/11/2016.
- */
-
 
 public class RoverImpl implements Rover {
 

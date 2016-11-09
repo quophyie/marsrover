@@ -7,9 +7,6 @@ import java.awt.*;
 import java.util.Objects;
 
 
-/**
- * Created by dman on 07/11/2016.
- */
 public class GridPosition  {
 
   private Orientation orientation;

@@ -1,8 +1,5 @@
 package com.redbadger.tests.marsrover.gridbuilder;
 
-/**
- * Created by dman on 07/11/2016.
- */
 public interface GridBuilder {
   /**
    * The xCoord and yCoord are the uppermost top right and left of the grid
