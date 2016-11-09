@@ -64,7 +64,8 @@ public class RoverImpl implements Rover {
   public void setInitialPosition(GridPosition initialPosition) {
     this.initialPosition = initialPosition;
   }
-/*@Override
+
+  /*@Override
   //By Iteration
   public InstructionExecutionResult explore(PathFinder pathFinder, List<Instruction> instructions) {
 

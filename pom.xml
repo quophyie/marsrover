@@ -52,11 +52,7 @@
                 <version>1.5.0</version>
                 <configuration>
                     <mainClass>com.redbadger.tests.marsrover.controlconsole.ControlConsole</mainClass>
-                    <execution>
-                        <goals>
-                            <goal>exec</goal>
-                        </goals>
-                    </execution>
+
                     <arguments>
                         <argument>argument1</argument>
                     </arguments>
